@@ -6,7 +6,7 @@ Santiago Ramírez Pérez.
 Ingeniería eléctrica.
 
 Verónica Palacio Muñoz.
-1017247211
+1017247211.
 Ingeniería de materiales.
 
 Felipe Sánchez Londoño.
